@@ -8,10 +8,10 @@
 </p>
 
 ## SpaceX
-Create Database Name: blog_db .
-Collation : utf8_unicode_ci.
-Php artisan migrate.
-First register User set status 1 to acesse Dashboard .
+<p>Create Database Name: blog_db .</p>
+<p>Collation : utf8_unicode_ci.</p>
+<p>Php artisan migrate.</p>
+<p>First register User set status 1 to acesse Dashboard .</p>
 <br>
 ## About Laravel
 
